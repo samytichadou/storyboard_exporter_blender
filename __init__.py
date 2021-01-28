@@ -25,8 +25,8 @@ bl_info = {
  "blender": (2, 91, 2), 
  "location": "",  
  "description": "",  
- "wiki_url": "",  
- "tracker_url": "",  
+ "wiki_url": "https://github.com/samytichadou/storyboard_exporter_blender",  
+ "tracker_url": "https://github.com/samytichadou/storyboard_exporter_blender/issues/new",  
  "category": "Import-Export",
  "warning": "Alpha version, use at your own risks"
  }
